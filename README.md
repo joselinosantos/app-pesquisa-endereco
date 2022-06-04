@@ -1,4 +1,6 @@
 # App Pesquisa endereço por CEP
+![Busca Endereço](https://github.com/joselinosantosti/app-pesquisa-endereco/blob/main/busca-endereco.png)
+
 Consome API do site https://viacep.com.br
 
 ## Getting start
